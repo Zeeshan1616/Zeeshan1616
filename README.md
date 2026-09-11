@@ -65,7 +65,7 @@ Small Python tools for extracting web data, processing it, and exporting structu
 ## 📚 Currently Learning
 
 ```text
-DSA              ███████░░░  → C++
+DSA              ███████░░░░  → C++
 Software Dev     ██████░░░░░  → Java
 Python           ███████░░░░  → Automation & Data
 SQL              ██████░░░░░  → Databases
